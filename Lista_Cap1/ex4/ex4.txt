@@ -1,0 +1,9 @@
+Ponto e vírgula sobrando: A linha #include <stdlib.h>; não deve ter ponto e vírgula no final. Comandos que começam com # (diretivas) não usam essa pontuação.
+
+Nome e parênteses do main: O nome da função principal tem que ser todo minúsculo (main). Além disso, ela deve vir acompanhada de parênteses e não de chaves. O correto é int main().
+
+Chaves invertidas com parênteses: O bloco de código que guarda os seus comandos deve ser abraçado por chaves { }, e não por parênteses ( ).
+
+Falta de aspas no texto: Tudo que é texto dentro do printf precisa estar dentro de aspas duplas. O correto é printf("Existem %d semanas no ano.", 52);.
+
+Invasão do C++: O comando cout << endl; não existe na linguagem C; ele pertence ao C++. Para pular uma linha em C, basta colocar um \n no final da frase dentro do próprio printf.

@@ -1,0 +1,3 @@
+Faltam os includes das bilbiotecas stdio.h , stdlib.h.
+int do int main()
+Quando você escreve int a=1; b=2; c=3:, o C acha que apenas a variável a é inteira. Além disso, o final da linha termina com dois pontos : em vez de ponto e vírgula ;. O correto é int a = 1, b = 2, c = 3;.
