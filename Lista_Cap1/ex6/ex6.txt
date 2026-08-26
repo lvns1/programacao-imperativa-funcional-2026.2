@@ -1,3 +1,12 @@
 Faltam os includes das bilbiotecas stdio.h , stdlib.h.
 int do int main()
-Quando você escreve int a=1; b=2; c=3:, o C acha que apenas a variável a é inteira. Além disso, o final da linha termina com dois pontos : em vez de ponto e vírgula ;. O correto é int a = 1, b = 2, c = 3;.
+
+O int a=1; b=2; c=3:, o C acha que apenas a variável a é inteira. Além disso, o final da linha termina com dois pontos : em vez de ponto e vírgula ;. O correto é int a = 1, b = 2, c = 3;.
+
+Letra "O" no lugar do número zero: O texto do printf começa com a letra "O" maiúscula (0s números) em vez do número zero ou do texto correto "Os números".
+
+A aspa de fechamento do printf foi colocada depois do \n, em vez de fechar o texto antes da vírgula.
+
+Variável d não existe: Você pediu para imprimir 4 valores (a, b, c, d), mas a variável d nunca foi declarada nem criada no programa.
+
+Quantidade de %d errada: Se você tem 3 variáveis (a, b e c), deve ter 3 modificadores %d. Chamar 4 variáveis gera erro de compilação.
