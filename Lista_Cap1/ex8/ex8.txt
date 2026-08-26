@@ -1,0 +1,1 @@
+O programa avança uma linha (\n), aplica uma tabulação (\t), imprime a frase "Primeiro programa" entre aspas duplas (usando a sequência de escape \") e depois aguarda o pressionamento de uma tecla com system("PAUSE").

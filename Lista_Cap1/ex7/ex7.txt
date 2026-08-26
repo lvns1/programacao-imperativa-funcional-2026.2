@@ -1,0 +1,18 @@
+a) Pula uma linha e dá um espaço de tabulação:
+Bom dial Shirley.
+
+b) Imprime o texto e pula uma linha no final:
+Você já tomou café?
+
+c) Pula duas linhas no início, imprime a primeira frase, pula uma linha e imprime a segunda:
+A solução não existe!
+Não insista.
+
+d)Imprime com tabulações entre palavras e quebra na palavra "saída":
+Duas	linhas	de	saída
+ou	uma?
+
+e)Imprime três strings em linhas consecutivas:
+um
+dois
+três

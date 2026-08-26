@@ -1,0 +1,3 @@
+"Primeiro programa"
+
+O compilador lê os argumentos de caractere no %c e interpreta suas sequências de escape: '\n' vira quebra de linha, '\t' vira tabulação e '\"' vira uma aspa dupla.

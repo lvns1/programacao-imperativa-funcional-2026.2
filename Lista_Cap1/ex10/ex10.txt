@@ -1,0 +1,3 @@
+b) Verdadeiro
+
+justificativa: Em C, por ser case sensitive, a tabela ASCII de 'p' (112) é diferente de 'P' (80). Logo, peso, Peso e PESO são três variáveis completamente distintas e alocadas em endereços de memória diferentes.

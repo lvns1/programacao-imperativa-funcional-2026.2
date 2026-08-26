@@ -1,0 +1,3 @@
+Instruções Corretas: a), b) e c). (A opção d está incorreta pois faltam os parênteses da função printf).
+
+Flexibilidade: O compilador C ignora espaços em branco (espaçamento livre) entre o nome da função e o parêntese de abertura, bem como dentro dos parênteses.
